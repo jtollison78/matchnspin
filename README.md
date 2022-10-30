@@ -1,6 +1,6 @@
 # matchnspin
 
-This node express project contains code I wrote for a demo to a patent application. I'm releasing the code in the following 2 files under the MIT license,
+This node express project contains code I wrote for a demo to a provisional patent application that I filed for years ago. I'm releasing the code in the following 2 files under the MIT license,
 
 matchnspin/public/javascripts/match-n-spin.coffee
 matchnspin/public/javascripts/match-n-spin.js
