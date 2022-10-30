@@ -15,4 +15,4 @@ Basically, I pushed those files out without being ready, so... there they are. A
 
 More info on both projects is available at my youtube channel, https://www.youtube.com/watch?v=c4ABe7Bug8M&t
 
-If you want help figuring the code out, you can find me on twitter at UpperCayce
+If you want help figuring the code out, you can DM me on twitter at UpperCayce, or on facebook.com/tollison
