@@ -1,4 +1,4 @@
-# matchnspin
+# match-n-spin
 
 This node express project contains code I wrote for a demo to a provisional patent application that I filed for years ago. I'm releasing the code in the following 2 files under the MIT license,
 
